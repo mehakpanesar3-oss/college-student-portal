@@ -14,7 +14,7 @@ body {
     font-family: Arial, sans-serif;
 
     /* Your College Photo */
-    background-image: url("college.jpg");
+    background-image: url("https://github.com/mehakpanesar3-oss/college-student-portal/blob/main/college.jpg?raw=true");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

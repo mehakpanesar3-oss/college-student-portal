@@ -14,7 +14,7 @@ body {
     font-family: Arial, sans-serif;
 
     /* Your College Photo */
-    background-image: url("C:\\Users\\Mehakdeep Kaur\\code\\college.jpg");
+    background-image: url("college.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
